@@ -25,6 +25,6 @@ section {
     flex-direction: column;
 }
 
-flex-one {
+.flex-one {
     flex: 1;
 }
